@@ -5,9 +5,6 @@ The dashboard provides insights into patient demographics, heart health indicato
 
 ---
 
-## 📊 Dashboard Overview
-
-![Medical Data Analysis Dashboard](Hospital%20data%20analysis.PNG)
 
 ### 🔹 Key Metrics
 - **Total Patients:** 307  
